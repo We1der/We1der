@@ -2,6 +2,9 @@
 <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=C3BA00&vCenter=true&width=435&lines=Beginner+web+developer" alt="Typing SVG" /></a>
 
+I'm a backend developer. I am currently looking for a job
+How to contact me: just send me email to offrolov.ms@gmail.com
+
 **Languages and Tools:**  
 
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
